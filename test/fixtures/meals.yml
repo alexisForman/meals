@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  Main_Ingredients: MyString
+  Time: MyString
+
+two:
+  Name: MyString
+  Main_Ingredients: MyString
+  Time: MyString
